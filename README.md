@@ -1,4 +1,5 @@
-# Bob Pyron's Command-Line Utilities
+Bob Pyron's Command-Line Utilities
+==================================
 
 A miscellaneous collection of command-line tools, mostly written (or "improved")
 by myself.
@@ -39,6 +40,5 @@ I have made no modifications to this program. It's here because I like it.
 -   Author: Thomas Polaert
 -   CodeProject source: [Add Colors to Batch Files](http://www.codeproject.com/Articles/17033/Add-Colors-to-Batch-Files)
 -   License: [The Code Project Open License (CPOL)](http://www.codeproject.com/info/cpol10.aspx)
-
 
 
