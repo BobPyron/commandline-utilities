@@ -18,7 +18,7 @@ name. The source file is checked in to Github as `HASH.c`.
 or `BAT` files. This is not recommended for files that will be distributed to 
 others. 
 
--   Author: [Robert L. Pyron](mailto:rpyron@alum.mit.edu)
+-   Author: Robert L. Pyron
 -   License: [WTFPL - Do What the F* You Want to Public License](http://www.wtfpl.net/)
 
 ## `which`
@@ -27,7 +27,7 @@ others.
 environment variable, looking for the specified `COMMAND`. It tries to follow 
 the sometimes bizarre rules for Windows command lookup. 
 
--   Author: [Robert L. Pyron](mailto:rpyron+which@gmail.com)
+-   Author: Robert L. Pyron
 -   License: [MIT License](http://opensource.org/licenses/MIT)
 
 ## `CEcho`
